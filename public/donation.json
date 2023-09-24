@@ -1,0 +1,122 @@
+[
+    {
+      "picture": "fake_picture_url_1",
+      "title": "Fake Product 1",
+      "category": "Electronics",
+      "category_bg_color": "#3498db",
+      "card_bg_color": "#ecf0f1",
+      "text_button_bg_color": "#2ecc71",
+      "description": "This is a fake product description for Fake Product 1.",
+      "price": "$19.99"
+    },
+    {
+      "picture": "fake_picture_url_2",
+      "title": "Fake Product 2",
+      "category": "Clothing",
+      "category_bg_color": "#e74c3c",
+      "card_bg_color": "#f9e79f",
+      "text_button_bg_color": "#8e44ad",
+      "description": "This is a fake product description for Fake Product 2.",
+      "price": "$29.99"
+    },
+    {
+      "picture": "fake_picture_url_3",
+      "title": "Fake Product 3",
+      "category": "Home and Living",
+      "category_bg_color": "#27ae60",
+      "card_bg_color": "#d5dbdb",
+      "text_button_bg_color": "#f39c12",
+      "description": "This is a fake product description for Fake Product 3.",
+      "price": "$39.99"
+    },
+    {
+      "picture": "fake_picture_url_4",
+      "title": "Fake Product 4",
+      "category": "Toys and Games",
+      "category_bg_color": "#8e44ad",
+      "card_bg_color": "#d4e157",
+      "text_button_bg_color": "#c0392b",
+      "description": "This is a fake product description for Fake Product 4.",
+      "price": "$24.99"
+    },
+    {
+      "picture": "fake_picture_url_5",
+      "title": "Fake Product 5",
+      "category": "Electronics",
+      "category_bg_color": "#3498db",
+      "card_bg_color": "#ecf0f1",
+      "text_button_bg_color": "#2ecc71",
+      "description": "This is a fake product description for Fake Product 5.",
+      "price": "$17.99"
+    },
+    {
+      "picture": "fake_picture_url_6",
+      "title": "Fake Product 6",
+      "category": "Clothing",
+      "category_bg_color": "#e74c3c",
+      "card_bg_color": "#f9e79f",
+      "text_button_bg_color": "#8e44ad",
+      "description": "This is a fake product description for Fake Product 6.",
+      "price": "$34.99"
+    },
+    {
+      "picture": "fake_picture_url_7",
+      "title": "Fake Product 7",
+      "category": "Home and Living",
+      "category_bg_color": "#27ae60",
+      "card_bg_color": "#d5dbdb",
+      "text_button_bg_color": "#f39c12",
+      "description": "This is a fake product description for Fake Product 7.",
+      "price": "$27.99"
+    },
+    {
+      "picture": "fake_picture_url_8",
+      "title": "Fake Product 8",
+      "category": "Toys and Games",
+      "category_bg_color": "#8e44ad",
+      "card_bg_color": "#d4e157",
+      "text_button_bg_color": "#c0392b",
+      "description": "This is a fake product description for Fake Product 8.",
+      "price": "$21.99"
+    },
+    {
+      "picture": "fake_picture_url_9",
+      "title": "Fake Product 9",
+      "category": "Electronics",
+      "category_bg_color": "#3498db",
+      "card_bg_color": "#ecf0f1",
+      "text_button_bg_color": "#2ecc71",
+      "description": "This is a fake product description for Fake Product 9.",
+      "price": "$14.99"
+    },
+    {
+      "picture": "fake_picture_url_10",
+      "title": "Fake Product 10",
+      "category": "Clothing",
+      "category_bg_color": "#e74c3c",
+      "card_bg_color": "#f9e79f",
+      "text_button_bg_color": "#8e44ad",
+      "description": "This is a fake product description for Fake Product 10.",
+      "price": "$32.99"
+    },
+    {
+      "picture": "fake_picture_url_11",
+      "title": "Fake Product 11",
+      "category": "Home and Living",
+      "category_bg_color": "#27ae60",
+      "card_bg_color": "#d5dbdb",
+      "text_button_bg_color": "#f39c12",
+      "description": "This is a fake product description for Fake Product 11.",
+      "price": "$23.99"
+    },
+    {
+      "picture": "fake_picture_url_12",
+      "title": "Fake Product 12",
+      "category": "Toys and Games",
+      "category_bg_color": "#8e44ad",
+      "card_bg_color": "#d4e157",
+      "text_button_bg_color": "#c0392b",
+      "description": "This is a fake product description for Fake Product 12.",
+      "price": "$26.99"
+    }
+  ]
