@@ -6,7 +6,7 @@ const Cards = ({cards}) => {
     return (
         <div >
             
-            <div className="container mx-auto grid  grid-cols-1 grid-cols-2 grid-cols-4 mt-20 gap-10 ">
+            <div className="container mx-auto grid  grid-cols-1 grid-cols-2 grid-cols-4 mt-20 gap-7 mb-20">
                 {
                     cards.map(card => <Card key={card.id} card={card}></Card>)
                 }
