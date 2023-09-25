@@ -4,131 +4,131 @@
       "picture": "https://i.ibb.co/gDjbTzV/Rectangle-4284.png",
       "title": "Clean water for children",
       "category": "Health",
-      "category_bg_color": "#0052FF26",
+      "category_bg_color": "#0052FF33",
       "card_bg_color": "#0052FF26",
-      "text_button_bg_color": "#2ecc71",
-      "description": "This is a fake product description for Fake Product 1.",
-      "price": "$19.99"
+      "text_button_bg_color": "#0052FF",
+      "description": "Ensuring accessible, high-quality education is a cornerstone of public health. Government investments in schools, financial aid for students, and qualified teachers with ample resources are essential steps. Families contribute by creating a conducive learning environment at home and aiding with schoolwork, impacting their children's well-being. Teachers play a crucial role, fostering a positive and supportive learning atmosphere, encouraging students to reach their full potential. This comprehensive approach to education significantly influences overall societal health and future prospects.",
+      "price": 290.00
     },
     {
       "id": 2,
       "picture": "https://i.ibb.co/V9LVhLX/Rectangle-4287-1.png",
       "title": "Good education",
       "category": "Education",
-      "category_bg_color": "#e74c3c",
-      "card_bg_color": "#f9e79f",
-      "text_button_bg_color": "#8e44ad",
-      "description": "This is a fake product description for Fake Product 2.",
-      "price": "$29.99"
+      "category_bg_color": "#FF443333",
+      "card_bg_color": "#FF444A26",
+      "text_button_bg_color": "#FF444A",
+      "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+      "price": 290.00
     },
     {
       "id": 3,
       "picture": "https://i.ibb.co/7RnNtjT/Rectangle-4287.png",
       "title": "Used Clothing Drive",
       "category": "Clothing",
-      "category_bg_color": "#27ae60",
-      "card_bg_color": "#d5dbdb",
-      "text_button_bg_color": "#f39c12",
-      "description": "This is a fake product description for Fake Product 3.",
-      "price": "$39.99"
+      "category_bg_color": "#79C23F33",
+      "card_bg_color": "#79C23F26",
+      "text_button_bg_color": "#79C23F",
+      "description": "Just as crafting a garment requires attention to detail, ensuring access to quality education demands meticulous efforts. Governments, akin to master tailors, invest in the 'fabric' of public schools and provide the 'seamstress' touch of financial aid. Like choosing the finest threads, qualified teachers and abundant resources are essential for a well-constructed education system. Families play the role of expert designers, tailoring a nurturing 'fit' for learning at home, adding to the educational 'ensemble.' Teachers, the true artisans, fashion a positive and empowering 'texture' for students, challenging them to tailor their potential into a bespoke educational 'style.'",
+      "price": 290.00
     },
     {
       "id": 4,
       "picture": "https://i.ibb.co/B6SpFtX/Rectangle-4287-2.png",
       "title": "Better Food for Everyone",
       "category": "Food",
-      "category_bg_color": "#8e44ad",
-      "card_bg_color": "#d4e157",
-      "text_button_bg_color": "#c0392b",
-      "description": "This is a fake product description for Fake Product 4.",
-      "price": "$24.99"
+      "category_bg_color": "#F8714733",
+      "card_bg_color": "#F8714726",
+      "text_button_bg_color": "#F87147",
+      "description": "Just as a delightful recipe calls for the finest ingredients, ensuring access to quality education in the food industry necessitates key components. Governments, like skilled chefs, invest in the 'ingredients' of public schools and extend a helping 'hand' with financial aid. Well-trained educators and ample resources form the essential 'spices' for a well-prepared educational 'dish.' Families act as the nurturing 'kitchen,' fostering a conducive learning environment at home, adding flavor to the educational 'meal.' Teachers, the chefs of knowledge, curate a positive and empowering 'taste' for students, encouraging them to savor their academic journey and reach their fullest 'culinary' potential.",
+      "price": 290.00
     },
     {
       "id": 5,
       "picture": "https://i.ibb.co/B6SpFtX/Rectangle-4287-2.png",
       "title": "Better Food for Everyone",
       "category": "Food",
-      "category_bg_color": "#3498db",
-      "card_bg_color": "#ecf0f1",
-      "text_button_bg_color": "#2ecc71",
-      "description": "This is a fake product description for Fake Product 5.",
-      "price": "$17.99"
+      "category_bg_color": "#F8714733",
+      "card_bg_color": "#F8714726",
+      "text_button_bg_color": "#F87147",
+      "description": "Just as a delightful recipe calls for the finest ingredients, ensuring access to quality education in the food industry necessitates key components. Governments, like skilled chefs, invest in the 'ingredients' of public schools and extend a helping 'hand' with financial aid. Well-trained educators and ample resources form the essential 'spices' for a well-prepared educational 'dish.' Families act as the nurturing 'kitchen,' fostering a conducive learning environment at home, adding flavor to the educational 'meal.' Teachers, the chefs of knowledge, curate a positive and empowering 'taste' for students, encouraging them to savor their academic journey and reach their fullest 'culinary' potential.",
+      "price": 290.00
     },
     {
       "id": 6,
       "picture": "https://i.ibb.co/7RnNtjT/Rectangle-4287.png",
       "title": "Used Clothing Drive",
       "category": "Clothing",
-      "category_bg_color": "#e74c3c",
-      "card_bg_color": "#f9e79f",
-      "text_button_bg_color": "#8e44ad",
-      "description": "This is a fake product description for Fake Product 6.",
-      "price": "$34.99"
+      "category_bg_color": "#79C23F33",
+      "card_bg_color": "#79C23F26",
+      "text_button_bg_color": "#79C23F",
+      "description": "Just as crafting a garment requires attention to detail, ensuring access to quality education demands meticulous efforts. Governments, akin to master tailors, invest in the 'fabric' of public schools and provide the 'seamstress' touch of financial aid. Like choosing the finest threads, qualified teachers and abundant resources are essential for a well-constructed education system. Families play the role of expert designers, tailoring a nurturing 'fit' for learning at home, adding to the educational 'ensemble.' Teachers, the true artisans, fashion a positive and empowering 'texture' for students, challenging them to tailor their potential into a bespoke educational 'style.'",
+      "price":290.00
     },
     {
       "id": 7,
       "picture": "https://i.ibb.co/V9LVhLX/Rectangle-4287-1.png",
       "title": "Good education",
       "category": "Education",
-      "category_bg_color": "#27ae60",
-      "card_bg_color": "#d5dbdb",
-      "text_button_bg_color": "#f39c12",
-      "description": "This is a fake product description for Fake Product 7.",
-      "price": "$27.99"
+      "category_bg_color": "#FF443333",
+      "card_bg_color": "#FF444A26",
+      "text_button_bg_color": "#FF444A",
+      "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+      "price": 290.00
     },
     {
       "id": 8,
       "picture": "https://i.ibb.co/gDjbTzV/Rectangle-4284.png",
       "title": "Clean water for children",
       "category": "Health",
-      "category_bg_color": "#0052FF26",
+      "category_bg_color": "#0052FF33",
       "card_bg_color": "#0052FF26",
-      "text_button_bg_color": "#c0392b",
-      "description": "This is a fake product description for Fake Product 8.",
-      "price": "$21.99"
+      "text_button_bg_color": "#0052FF",
+      "description": "Ensuring accessible, high-quality education is a cornerstone of public health. Government investments in schools, financial aid for students, and qualified teachers with ample resources are essential steps. Families contribute by creating a conducive learning environment at home and aiding with schoolwork, impacting their children's well-being. Teachers play a crucial role, fostering a positive and supportive learning atmosphere, encouraging students to reach their full potential. This comprehensive approach to education significantly influences overall societal health and future prospects.",
+      "price": 290.00
     },
     {
       "id": 9,
       "picture": "https://i.ibb.co/gDjbTzV/Rectangle-4284.png",
       "title": "Health",
       "category": "Clean water for children",
-      "category_bg_color": "#0052FF26",
+      "category_bg_color": "#0052FF33",
       "card_bg_color": "#0052FF26",
-      "text_button_bg_color": "#2ecc71",
-      "description": "This is a fake product description for Fake Product 9.",
-      "price": "$14.99"
+      "text_button_bg_color": "#0052FF",
+      "description": "Ensuring accessible, high-quality education is a cornerstone of public health. Government investments in schools, financial aid for students, and qualified teachers with ample resources are essential steps. Families contribute by creating a conducive learning environment at home and aiding with schoolwork, impacting their children's well-being. Teachers play a crucial role, fostering a positive and supportive learning atmosphere, encouraging students to reach their full potential. This comprehensive approach to education significantly influences overall societal health and future prospects.",
+      "price":290.00
     },
     {
       "id": 10,
       "picture": "https://i.ibb.co/V9LVhLX/Rectangle-4287-1.png",
       "title": "Good education",
       "category": "Education",
-      "category_bg_color": "#e74c3c",
-      "card_bg_color": "#f9e79f",
-      "text_button_bg_color": "#8e44ad",
-      "description": "This is a fake product description for Fake Product 10.",
-      "price": "$32.99"
+      "category_bg_color": "#FF443333",
+      "card_bg_color": "#FF444A26",
+      "text_button_bg_color": "#FF444A",
+      "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+      "price": 290.00
     },
     {
       "id": 11,
       "picture": "https://i.ibb.co/7RnNtjT/Rectangle-4287.png",
       "title": "Used Clothing Drive",
       "category": "Clothing",
-      "category_bg_color": "#27ae60",
-      "card_bg_color": "#d5dbdb",
-      "text_button_bg_color": "#f39c12",
-      "description": "This is a fake product description for Fake Product 11.",
-      "price": "$23.99"
+      "category_bg_color": "#79C23F33",
+      "card_bg_color": "#79C23F26",
+      "text_button_bg_color": "#79C23F",
+      "description": "Just as crafting a garment requires attention to detail, ensuring access to quality education demands meticulous efforts. Governments, akin to master tailors, invest in the 'fabric' of public schools and provide the 'seamstress' touch of financial aid. Like choosing the finest threads, qualified teachers and abundant resources are essential for a well-constructed education system. Families play the role of expert designers, tailoring a nurturing 'fit' for learning at home, adding to the educational 'ensemble.' Teachers, the true artisans, fashion a positive and empowering 'texture' for students, challenging them to tailor their potential into a bespoke educational 'style.'",
+      "price": 290.00
     },
     {
       "id": 12,
       "picture": "https://i.ibb.co/B6SpFtX/Rectangle-4287-2.png",
       "title": "Better Food for Everyone",
       "category": "Food",
-      "category_bg_color": "#8e44ad",
-      "card_bg_color": "#d4e157",
-      "text_button_bg_color": "#c0392b",
-      "description": "This is a fake product description for Fake Product 12.",
-      "price": "$26.99"
+      "category_bg_color": "#F8714733",
+      "card_bg_color": "#F8714726",
+      "text_button_bg_color": "#F87147",
+      "description": "Just as a delightful recipe calls for the finest ingredients, ensuring access to quality education in the food industry necessitates key components. Governments, like skilled chefs, invest in the 'ingredients' of public schools and extend a helping 'hand' with financial aid. Well-trained educators and ample resources form the essential 'spices' for a well-prepared educational 'dish.' Families act as the nurturing 'kitchen,' fostering a conducive learning environment at home, adding flavor to the educational 'meal.' Teachers, the chefs of knowledge, curate a positive and empowering 'taste' for students, encouraging them to savor their academic journey and reach their fullest 'culinary' potential.",
+      "price": 290.00
     }
   ]
