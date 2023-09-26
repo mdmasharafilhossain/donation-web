@@ -1,5 +1,5 @@
 import { Link, useLoaderData, useParams } from "react-router-dom";
-
+import Swal from 'sweetalert2'
 
 const CardsDetails = () => {
     const CardsInfo = useLoaderData();
@@ -8,6 +8,15 @@ const CardsDetails = () => {
 
     const CardInfo = CardsInfo.find(CardMore => CardMore.id == idINT);
     console.log(CardInfo);
+
+    const handleClick =() =>{
+        Swal.fire({
+            title: 'Done',
+            text: 'You have Donated Successfully',
+            icon: 'success',
+            confirmButtonText: 'Ok'
+          })
+    } 
 
     return (
         <div className="container mx-auto mt-20 mb-20">
@@ -19,7 +28,7 @@ const CardsDetails = () => {
 
                 </div>
                 <Link>
-                <button 
+                <button onClick={handleClick}
                 style={{backgroundColor:CardInfo.text_button_bg_color}}
                 className="btn text-white text-xl font-semibold  absolute -mt-24 border-none ml-14">
                   Donate ${CardInfo.price}
