@@ -11,13 +11,18 @@ const CardsDetails = () => {
     console.log(CardInfo);
 
     const handleClick =() =>{
-        saveDonation(idINT);
+        if(!CardInfo){
+            saveDonation(idINT);
         Swal.fire({
             title: 'Done',
             text: 'You have Donated Successfully',
             icon: 'success',
             confirmButtonText: 'Ok'
           })
+        }else{
+            alert("already exists");
+        }
+        
     } 
 
     return (
