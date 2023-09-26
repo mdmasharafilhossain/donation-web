@@ -18,10 +18,10 @@ const Statistics = () => {
       setlength(mydonation);
     },[])
     return (
-        <div className="container mx-auto">
+        <div className="container mx-auto mt-20">
             
             <React.Fragment>
-            <h1>welcome to pie chart</h1>
+            
             <Chart 
             type="pie"
             width={1345}
