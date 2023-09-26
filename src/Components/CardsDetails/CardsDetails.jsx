@@ -1,5 +1,6 @@
 import { Link, useLoaderData, useParams } from "react-router-dom";
 import Swal from 'sweetalert2'
+import { saveDonation } from "../../Utility/localStroge";
 
 const CardsDetails = () => {
     const CardsInfo = useLoaderData();
@@ -10,6 +11,7 @@ const CardsDetails = () => {
     console.log(CardInfo);
 
     const handleClick =() =>{
+        saveDonation(idINT);
         Swal.fire({
             title: 'Done',
             text: 'You have Donated Successfully',
@@ -19,7 +21,7 @@ const CardsDetails = () => {
     } 
 
     return (
-        <div className="container mx-auto mt-20 mb-20">
+        <div className="container mx-auto mt-10 mb-20">
 
             <div>
                 <img className="w-full h-[700px] rounded-lg" src={CardInfo.picture} alt="" />
