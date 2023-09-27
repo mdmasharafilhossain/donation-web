@@ -25,7 +25,7 @@ const Donation = () => {
     return (
         <div className="container mx-auto mt-10">
 
-            <div className="grid grid-cols-2 gap-7">
+            <div className="grid grid-cols-1 md:grid-cols-1 lg:grid-cols-2 gap-7">
                 {
                     isShow ? donate.map(donation => <DonationDetails key={donation.id} donation={donation}></DonationDetails>) :
 

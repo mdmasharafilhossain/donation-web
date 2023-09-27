@@ -18,16 +18,17 @@ const Statistics = () => {
       setlength(mydonation);
     },[])
     return (
-        <div className="container mx-auto mt-20">
+        <div className="container mx-auto mt-20 h-auto ">
             
             <React.Fragment>
             
             <Chart 
             type="pie"
-            width={1345}
+            width="100%"
             height={550}
             series={length}
             options={{
+                colors:["#00C49F","#FF444A"],
                 labels :["Your Donation","Total Donation"]
             }}
             >

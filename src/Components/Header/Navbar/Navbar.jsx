@@ -3,14 +3,14 @@ import logo from "../../../assets/Logo.png"
 const Navbar = () => {
     return (
         <div className="container mx-auto mt-10">
-            <nav className="flex items-center  justify-between">
+            <nav className="flex items-center gap-5 justify-between">
                 <div>
                  <img src={logo} alt="" />
                 </div>
 
                 {/* This is banner text */}
                 <div className="flex ">
-                <ul className="flex gap-12">
+                <ul className="flex gap-5 md:gap-10 lg:gap-12">
                     <li>
                         <NavLink
                             to="/"
